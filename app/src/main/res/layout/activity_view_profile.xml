@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/actBackground">
+
+    <TextView
+        android:id="@+id/tvProfileTitle"
+        style="@style/tvTitleStyle"
+        android:text="Профіль"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/etLogin"
+        style="@style/txtInput"
+        android:hint="Введіть логін"
+        android:inputType="textPersonName"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvProfileTitle"
+        android:layout_marginTop="20dp"
+        android:maxLength="50"/>
+
+    <EditText
+        android:id="@+id/etUserName"
+        style="@style/txtInput"
+        android:hint="Введіть ПІБ"
+        android:inputType="textPersonName"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etLogin"
+        android:layout_marginTop="10dp"
+        android:maxLength="255" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent">
+
+        <CheckBox
+            android:id="@+id/chkFavoriteUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="50dp"
+            android:textColor="@color/text_color"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_marginBottom="30dp"
+            android:text="Вибрані користувачі" />
+
+        <Button
+            android:id="@+id/btnSaveChanges"
+            style="@style/btnStyle"
+            android:layout_marginBottom="30dp"
+            android:text="Зберегти зміни" />
+
+        <Button
+            android:id="@+id/btnGoBack"
+            style="@style/btnStyle"
+            android:layout_marginBottom="50dp"
+            android:text="Назад" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

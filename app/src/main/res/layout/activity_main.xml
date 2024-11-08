@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/actBackground"
+    tools:context=".authorization.MainActivity">
+
+    <TextView
+        android:id="@+id/tvLogo"
+        style="@style/tvTitleStyle"
+        android:text="Вітаємо в\nTo Do List 👋"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="30dp"
+        android:textSize="50dp"/>
+
+    <TextView
+        android:id="@+id/tvHint"
+        style="@style/tvHintStyle"
+        android:layout_width="match_parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:text="Щоб почати користуватися додатком потрібно авторизуватися ✍️"
+        android:layout_marginVertical="15dp"
+        android:paddingHorizontal="10dp" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        style="@style/btnStyle"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/btnSignUp"
+        android:layout_marginBottom="40dp"
+        android:text="Вхід"/>
+
+    <Button
+        android:id="@+id/btnSignUp"
+        style="@style/btnStyle"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/tvHint"
+        android:layout_marginBottom="15dp"
+        android:text="Реєстрація" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

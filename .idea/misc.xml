@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.151" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/ic_launcher_background.xml" value="0.151" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/krugliye_ugli.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_button.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_comment.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_completed_tasl.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_default_button.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_delete_button.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_favorite_user.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_green_button.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_green_task.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_layout.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_red_task.xml" value="0.152" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_task.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_user.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/round_yellow_tasl.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/drawable/rounded.xml" value="0.1485" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_create_task.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_find_executors.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_home_page_of_leader.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_home_page_of_worker.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_input_date_and_time.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_search_for_new_users.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_search_users.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_tasks.xml" value="0.264" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_view_favorite_users.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_view_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_view_task.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/activity_view_tasks.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/create_task_activity.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/edit_activity.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/fragment_active_tasks.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/home_page_of_leader.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/home_page_of_worker.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/leader_activity.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/login_activity.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/sign_up_activity.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/view_favorite_users_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/view_profile_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/view_task_layout.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/view_tasks_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/view_worker_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/view_workers_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/layout/worker_activity.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.151" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/To Do List/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/Maksim/AndroidStudioProjects/app/src/main/res/layout/create_task_activity.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop/javaDoc" />
+    <option name="OPTION_SCOPE" value="private" />
+    <option name="OTHER_OPTIONS" value="-encoding utf8 -docencoding utf8 -charset utf8" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

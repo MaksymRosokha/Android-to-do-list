@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/actBackground"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        style="@style/tvTitleStyle"
+        android:text="Кабінет керівника" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginVertical="20dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/tvLeaderGreeting"
+            style="@style/tvHintStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:text="Вітаємо\nу вашому кабінеті"/>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnViewProfile"
+        style="@style/btnStyle"
+        android:layout_marginBottom="20dp"
+        android:text="Профіль" />
+
+    <Button
+        android:id="@+id/btnViewTasks"
+        style="@style/btnStyle"
+        android:layout_marginBottom="20dp"
+        android:text="Завдання"/>
+
+    <Button
+        android:id="@+id/btnFavoriteUsers"
+        style="@style/btnStyle"
+        android:layout_marginBottom="20dp"
+        android:text="Корстувачі"/>
+
+    <Button
+        android:id="@+id/btnLogOut"
+        style="@style/btnStyle"
+        android:layout_marginBottom="50dp"
+        android:text="Вихід з акаунту" />
+
+</LinearLayout>
